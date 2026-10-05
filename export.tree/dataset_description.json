@@ -1,0 +1,11 @@
+{
+    "Name": "sample dataset for odor- and speech-evoked fMRI experiment at 7 Tesla",
+    "Authors": [
+        "Toshiki Okumura",
+        "Masako Okamoto",
+        "Ikuhiro Kida"
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008898.v1.0.1",
+    "License": "CC0"
+}
